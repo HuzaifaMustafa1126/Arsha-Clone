@@ -81,3 +81,24 @@ body{
 .tick{
     color: #12CAF0;
 }
+.accordion{
+    background: #F2F5F9;
+    
+}
+.accordion-text1{
+    word-spacing: 5px;
+}
+
+.accordion-headers:hover{
+    color: #12CAF0; 
+}
+.graphs-section-text{
+    margin-top: 40px;
+    font-weight:800;
+    font-size: 36px;
+    color: #37517e;
+}
+.progress-bars{
+    height: 8px;
+    margin-top: -15px;
+}
